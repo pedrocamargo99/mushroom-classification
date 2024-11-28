@@ -2,6 +2,7 @@
 Solving a Classification problem in Python as a part of my Data Analysis Course assessment. Consists of implementing multiple ML Algoritms using the same Database, evaluating the results of each and infering the best one.
 
 📕 **Database Description**
+
 Name: 
 Mushroom Classification
 
