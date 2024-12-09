@@ -15,7 +15,7 @@ https://www.kaggle.com/datasets/uciml/mushroom-classification
 ✅ **Implemented Algorithms**
 - Decision Trees
 - Random Forest
-- Support Vector Machines
-- K-Nearest Neighbors
 - XGBoost
+- LightCBM
+- CatBoost
 - Multi-layer Perceptron Classifier
