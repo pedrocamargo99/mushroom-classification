@@ -16,6 +16,6 @@ https://www.kaggle.com/datasets/uciml/mushroom-classification
 - Decision Trees
 - Random Forest
 - XGBoost
-- LightCBM
+- LightGBM
 - CatBoost
 - Multi-layer Perceptron Classifier
